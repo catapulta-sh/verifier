@@ -41,6 +41,6 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@bgd-labs/rpc-env": "^2.0.1"
+    "@bgd-labs/rpc-env": "^2.2.0"
   }
 }
